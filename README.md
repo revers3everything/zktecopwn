@@ -47,8 +47,8 @@ This tool provides a variety of functionalities for interacting with ZKTeco biom
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/ZKTeco-pwn.git
-   cd ZKTeco-pwn
+   git clone https://github.com/revers3everything/zktecopwn.git
+   cd zktecopwn
    ```
 
 2. Install the required dependencies:
