@@ -61,10 +61,10 @@ This tool provides a variety of functionalities for interacting with ZKTeco biom
 
 ## Usage
 
-To run the tool, use the following command:
+Change the ZKTeco IP in the exploit "zktecopwn.py" in the line 152. The default port is 4370 but if you see another number in your ZKTeco please update also the port in the same 152 line. Finally, to run the tool, use the following command:
 
 ```bash
-python3 zkteco_pwn.py
+python3 zktecopwn.py
 ```
 ---
 
